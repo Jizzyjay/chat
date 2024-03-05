@@ -5,6 +5,7 @@ Technologies used:
 - Zustard
 - MongoDB
 - React 
+- Socket.io
 
 
 Some Features of this this projects are:
@@ -17,5 +18,5 @@ Some Features of this this projects are:
 -   🐞 Error handling both on the server and on the client
 -   ⏳ And much more!
 
-github repo: https://github.com/Jizzyjay/chat
-live page: https://chat-3kbt.onrender.com/
+- github repo: https://github.com/Jizzyjay/chat
+- live page: https://chat-3kbt.onrender.com/
